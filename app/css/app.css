@@ -28,3 +28,25 @@
   content: "";
   padding: 0;
 }
+
+.wall {
+  color: #ecf0f1;
+  margin: 1%;
+}
+
+.step {
+  margin: 0.5%;
+  padding: 1%;
+}
+
+.step h2{
+  border-bottom: 3px solid #ecf0f1;
+}
+
+.item{
+  padding-bottom: 5px;
+}
+
+.item:hover{
+  font-size: 1.1em;
+}
